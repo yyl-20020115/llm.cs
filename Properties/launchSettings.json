@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "llm_cs": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
